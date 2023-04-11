@@ -1,0 +1,32 @@
+{
+	"storyName": "its a new day.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"phratry",
+			"face",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "its a new day.",
+	"hiddenUntilUnlocked": false
+}

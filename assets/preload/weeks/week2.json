@@ -1,0 +1,50 @@
+{
+	"storyName": "this should be fun.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"first_mag",
+			"picow2d2",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"torment",
+			"picow2d2-2",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"liberate",
+			"picow2d3",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "this should be fun.",
+	"hiddenUntilUnlocked": false
+}

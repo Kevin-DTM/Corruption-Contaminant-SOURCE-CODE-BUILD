@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Dad idle dance",
+	"idle_anim": "Dad idle dance",
+	"position": [
+		73,
+		201
+	],
+	"scale": 0.51,
+	"image": "menu_dad",
+	"flipX": false
+}

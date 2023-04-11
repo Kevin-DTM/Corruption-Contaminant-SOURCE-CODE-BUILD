@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF idle dance",
+	"idle_anim": "BF idle dance",
+	"position": [
+		141,
+		-3
+	],
+	"scale": 0.75,
+	"image": "menu_boyfriend",
+	"flipX": false
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "the start of the end.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"",
+		"boyfriend"
+	],
+	"songs": [
+		[
+			"bloodthirst",
+			"cddw1d1",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"blistering_blood",
+			"cddw1d2",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"ferocious_fight",
+			"cddw1d1",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "the start of the end.",
+	"hiddenUntilUnlocked": false
+}
